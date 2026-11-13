@@ -27,8 +27,7 @@ I'm Diego, a developer from Spain. I finished my Higher Technician degree in **W
 
 Outside of class I build my own apps. Most of them start with a problem I have myself, and lately they mix web technologies with desktop packaging, automation and local AI.
 
-- **Now:** studying DAM, improving Lunar Finance and learning Kotlin for Android.
-- **Looking for:** my first developer role in Madrid, Ávila or remote.
+Right now I'm improving Lunar Finance and learning Kotlin for Android.
 
 ## Tech stack
 

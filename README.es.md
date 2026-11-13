@@ -27,8 +27,7 @@ Soy Diego, desarrollador. Terminé el CFGS de **Desarrollo de Aplicaciones Web (
 
 Fuera de clase hago mis propias aplicaciones. Casi todas nacen de un problema que tengo yo, y últimamente mezclan tecnologías web con aplicaciones de escritorio, automatización e IA local.
 
-- **Ahora:** cursando DAM, mejorando Lunar Finance y aprendiendo Kotlin para Android.
-- **Busco:** mi primer puesto como desarrollador en Madrid, Ávila o en remoto.
+Ahora mismo estoy mejorando Lunar Finance y aprendiendo Kotlin para Android.
 
 ## Tecnologías
 
