@@ -25,8 +25,6 @@
 
 Soy Diego, desarrollador. Terminé el CFGS de **Desarrollo de Aplicaciones Web (DAW)** en 2026 y ahora curso **Desarrollo de Aplicaciones Multiplataforma (DAM)** para pasar del navegador al escritorio y al móvil.
 
-Hice cuatro meses de prácticas como desarrollador full stack en **Adcore**, trabajando sobre aplicaciones empresariales en producción: nuevas funcionalidades, corrección de errores en código de otros programadores, un módulo multimoneda con AG Grid, envíos de correo con Mailrelay y despliegues. Ahí PHP, JavaScript y MySQL se convirtieron en mis herramientas de cada día.
-
 Fuera de clase hago mis propias aplicaciones. Casi todas nacen de un problema que tengo yo, y últimamente mezclan tecnologías web con aplicaciones de escritorio, automatización e IA local.
 
 - **Ahora:** cursando DAM, mejorando Lunar Finance y aprendiendo Kotlin para Android.
@@ -35,7 +33,7 @@ Fuera de clase hago mis propias aplicaciones. Casi todas nacen de un problema qu
 ## Tecnologías
 
 <p>
-  <b>En el día a día</b> <sub>· en el trabajo y en la mayoría de proyectos</sub><br>
+  <b>En el día a día</b> <sub>· lo que uso en la mayoría de mis proyectos</sub><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php%2Cjs%2Cmysql%2Chtml%2Ccss%2Cjquery%2Cgit&amp;theme=dark">
     <img src="https://skillicons.dev/icons?i=php%2Cjs%2Cmysql%2Chtml%2Ccss%2Cjquery%2Cgit&amp;theme=light" width="322" alt="PHP, JavaScript, MySQL, HTML, CSS, jQuery, Git">
@@ -58,7 +56,7 @@ Fuera de clase hago mis propias aplicaciones. Casi todas nacen de un problema qu
   </picture>
 </p>
 
-<sub>También he trabajado con: AG Grid · Bootstrap · Mailrelay / SMTP · API de Notion · Ollama · APIs de Gemini y Replicate · GitHub Actions y Pages · Railway · Figma</sub>
+<sub>También he trabajado con: Bootstrap · API de Notion · Ollama · APIs de Gemini y Replicate · GitHub Actions y Pages · Railway · Figma</sub>
 
 ## Proyectos destacados
 

@@ -25,8 +25,6 @@
 
 I'm Diego, a developer from Spain. I finished my Higher Technician degree in **Web Application Development (DAW)** in 2026 and I'm now studying **Multiplatform Application Development (DAM)** to move from the browser to desktop and mobile.
 
-I spent four months as a full stack intern at **Adcore**, working on business applications already in production: new features, bug fixes in other people's code, a multi-currency module with AG Grid, email delivery with Mailrelay and deployments. That's where PHP, JavaScript and MySQL became my everyday tools.
-
 Outside of class I build my own apps. Most of them start with a problem I have myself, and lately they mix web technologies with desktop packaging, automation and local AI.
 
 - **Now:** studying DAM, improving Lunar Finance and learning Kotlin for Android.
@@ -35,7 +33,7 @@ Outside of class I build my own apps. Most of them start with a problem I have m
 ## Tech stack
 
 <p>
-  <b>Day to day</b> <sub>· used at work and in most projects</sub><br>
+  <b>Day to day</b> <sub>· the tools I use in most of my projects</sub><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php%2Cjs%2Cmysql%2Chtml%2Ccss%2Cjquery%2Cgit&amp;theme=dark">
     <img src="https://skillicons.dev/icons?i=php%2Cjs%2Cmysql%2Chtml%2Ccss%2Cjquery%2Cgit&amp;theme=light" width="322" alt="PHP, JavaScript, MySQL, HTML, CSS, jQuery, Git">
@@ -58,7 +56,7 @@ Outside of class I build my own apps. Most of them start with a problem I have m
   </picture>
 </p>
 
-<sub>Also worked with: AG Grid · Bootstrap · Mailrelay / SMTP · Notion API · Ollama · Gemini and Replicate APIs · GitHub Actions and Pages · Railway · Figma</sub>
+<sub>Also worked with: Bootstrap · Notion API · Ollama · Gemini and Replicate APIs · GitHub Actions and Pages · Railway · Figma</sub>
 
 ## Featured projects
 
