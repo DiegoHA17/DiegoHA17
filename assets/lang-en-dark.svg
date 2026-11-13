@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="32" viewBox="0 0 136 32" role="img" aria-label="English selected, switch to Spanish">
+  <title>English selected, switch to Spanish</title>
+  <rect x="0.75" y="0.75" width="134.5" height="30.5" rx="15.25" fill="#161b26" stroke="#2a3142" stroke-width="1.5"/>
+  <!-- globe -->
+  <g fill="none" stroke="#8fa8c8" stroke-width="1.3" transform="translate(13 9)">
+    <circle cx="7" cy="7" r="6.3"/>
+    <ellipse cx="7" cy="7" rx="2.8" ry="6.3"/>
+    <line x1="0.7" y1="7" x2="13.3" y2="7"/>
+  </g>
+  <rect x="38" y="4" width="46" height="24" rx="12.0" fill="#b8aef0"/>
+  <text x="61.0" y="20.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="700" fill="#161b26">EN</text>
+  <text x="107.0" y="20.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="500" fill="#8fa8c8">ES</text>
+</svg>

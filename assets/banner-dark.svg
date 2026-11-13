@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Diego Herrera Ayuso</title>
+  <desc id="d">Developer in training building web, desktop and mobile apps.</desc>
+  <defs>
+    <linearGradient id="bgfade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11151f"/>
+      <stop offset="1" stop-color="#151a26"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#1f2533"/>
+    </pattern>
+    <linearGradient id="dotsfade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0.35" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="dotsmask"><rect width="1200" height="300" fill="url(#dotsfade)"/></mask>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="298" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#bgfade)"/>
+    <rect width="1200" height="300" fill="url(#dots)" mask="url(#dotsmask)"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="298" rx="18" fill="none" stroke="#262d3d" stroke-width="1.5"/>
+
+  <!-- window bar -->
+  <circle cx="34" cy="30" r="5.5" fill="#e8a3ad"/>
+  <circle cx="54" cy="30" r="5.5" fill="#e9d39c"/>
+  <circle cx="74" cy="30" r="5.5" fill="#9fd3b8"/>
+  <text x="100" y="35" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" fill="#6f7a91">~/DiegoHA17 — README.md</text>
+  <line x1="1" y1="56" x2="1199" y2="56" stroke="#262d3d" stroke-width="1"/>
+
+  <!-- prompt -->
+  <text x="64" y="100" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="17" fill="#6f7a91"><tspan fill="#b8aef0">❯</tspan> whoami</text>
+
+  <!-- name + subtitle -->
+  <text x="62" y="160" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', Helvetica, Arial, sans-serif" font-size="50" font-weight="600" letter-spacing="-0.5" fill="#e6e9f2">Diego Herrera Ayuso</text>
+  <text x="64" y="198" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', Helvetica, Arial, sans-serif" font-size="21" fill="#a9b4c8">Developer in training · I build apps and learn by shipping them</text>
+
+  <rect x="64" y="226" width="74" height="30" rx="15" fill="#1a2030" stroke="#262d3d"/>
+  <text x="101.0" y="246" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13.5" fill="#8fa8c8">web</text>
+  <rect x="148" y="226" width="104" height="30" rx="15" fill="#1a2030" stroke="#262d3d"/>
+  <text x="200.0" y="246" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13.5" fill="#8fa8c8">desktop</text>
+  <rect x="262" y="226" width="92" height="30" rx="15" fill="#1a2030" stroke="#262d3d"/>
+  <text x="308.0" y="246" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13.5" fill="#8fa8c8">mobile</text>
+  <rect x="364" y="226" width="136" height="30" rx="15" fill="#1a2030" stroke="#262d3d"/>
+  <text x="432.0" y="246" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13.5" fill="#8fa8c8">automation</text>
+  <rect x="510" y="226" width="168" height="30" rx="15" fill="#1a2030" stroke="#262d3d"/>
+  <text x="594.0" y="246" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13.5" fill="#8fa8c8">AI integration</text>
+
+  <!-- crescent -->
+  <g opacity="0.16">
+    <circle cx="1010" cy="160" r="118" fill="none" stroke="#b8aef0" stroke-width="1.2"/>
+    <circle cx="1010" cy="160" r="84" fill="none" stroke="#b8aef0" stroke-width="1" stroke-dasharray="2 7"/>
+  </g>
+  <g>
+    <line x1="905" y1="92" x2="968" y2="70" stroke="#8fa8c8" stroke-opacity="0.45" stroke-width="1.2"/>
+    <line x1="968" y1="70" x2="1032" y2="108" stroke="#8fa8c8" stroke-opacity="0.45" stroke-width="1.2"/>
+    <line x1="1032" y1="108" x2="1004" y2="170" stroke="#8fa8c8" stroke-opacity="0.45" stroke-width="1.2"/>
+    <line x1="1004" y1="170" x2="936" y2="190" stroke="#8fa8c8" stroke-opacity="0.45" stroke-width="1.2"/>
+    <line x1="936" y1="190" x2="905" y2="92" stroke="#8fa8c8" stroke-opacity="0.45" stroke-width="1.2"/>
+    <line x1="1032" y1="108" x2="1110" y2="98" stroke="#8fa8c8" stroke-opacity="0.45" stroke-width="1.2"/>
+    <line x1="1004" y1="170" x2="1078" y2="176" stroke="#8fa8c8" stroke-opacity="0.45" stroke-width="1.2"/>
+    <line x1="1078" y1="176" x2="1110" y2="98" stroke="#8fa8c8" stroke-opacity="0.45" stroke-width="1.2"/>
+    <circle cx="905" cy="92" r="3.4" fill="#8fa8c8"/>
+    <circle cx="968" cy="70" r="3.4" fill="#b8aef0"/>
+    <circle cx="1032" cy="108" r="5" fill="#b8aef0"/>
+    <circle cx="1032" cy="108" r="10" fill="none" stroke="#b8aef0" stroke-opacity="0.35"/>
+    <circle cx="1004" cy="170" r="3.4" fill="#8fa8c8"/>
+    <circle cx="936" cy="190" r="5" fill="#b8aef0"/>
+    <circle cx="936" cy="190" r="10" fill="none" stroke="#b8aef0" stroke-opacity="0.35"/>
+    <circle cx="1078" cy="176" r="3.4" fill="#8fa8c8"/>
+    <circle cx="1110" cy="98" r="3.4" fill="#b8aef0"/>
+  </g>
+  <text x="1132" y="262" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" fill="#6f7a91">&lt;/&gt; DAW · DAM</text>
+</svg>
