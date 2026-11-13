@@ -37,24 +37,24 @@ Outside of class I build my own apps. Most of them start with a problem I have m
 <p>
   <b>Day to day</b> <sub>· used at work and in most projects</sub><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,js,mysql,html,css,jquery,git&amp;theme=dark">
-    <img src="https://skillicons.dev/icons?i=php,js,mysql,html,css,jquery,git&amp;theme=light" width="322" alt="PHP, JavaScript, MySQL, HTML, CSS, jQuery, Git">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php%2Cjs%2Cmysql%2Chtml%2Ccss%2Cjquery%2Cgit&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=php%2Cjs%2Cmysql%2Chtml%2Ccss%2Cjquery%2Cgit&amp;theme=light" width="322" alt="PHP, JavaScript, MySQL, HTML, CSS, jQuery, Git">
   </picture>
 </p>
 
 <p>
   <b>Built projects with</b> <sub>· shipped at least one app</sub><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,rust,tauri,electron,python,fastapi,tailwind,sqlite,docker&amp;theme=dark">
-    <img src="https://skillicons.dev/icons?i=ts,react,rust,tauri,electron,python,fastapi,tailwind,sqlite,docker&amp;theme=light" width="462" alt="TypeScript, React, Rust, Tauri, Electron, Python, FastAPI, Tailwind CSS, SQLite, Docker">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Crust%2Ctauri%2Celectron%2Cpython%2Cfastapi%2Ctailwind%2Csqlite%2Cdocker&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=ts%2Creact%2Crust%2Ctauri%2Celectron%2Cpython%2Cfastapi%2Ctailwind%2Csqlite%2Cdocker&amp;theme=light" width="462" alt="TypeScript, React, Rust, Tauri, Electron, Python, FastAPI, Tailwind CSS, SQLite, Docker">
   </picture>
 </p>
 
 <p>
   <b>Learning now</b> <sub>· DAM coursework</sub><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,androidstudio&amp;theme=dark">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&amp;theme=light" width="87" alt="Kotlin, Android Studio">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Candroidstudio&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=kotlin%2Candroidstudio&amp;theme=light" width="87" alt="Kotlin, Android Studio">
   </picture>
 </p>
 
@@ -90,8 +90,8 @@ My DAW final project: a digital wardrobe that suggests outfits from the weather 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=DiegoHA17&amp;bg=161b26&amp;text=a9b4c8&amp;title_color=b8aef0&amp;icon_color=8fa8c8&amp;border_color=2a3142&amp;border_radius=10&amp;hide=stars,followers,avg,trend,issues,grade,hours,week,repos&amp;custom_title=GitHub%20activity">
-    <img src="https://ghstats.dev/api/card?username=DiegoHA17&amp;bg=ffffff&amp;text=4f5a70&amp;title_color=6c5fb0&amp;icon_color=5f7d9e&amp;border_color=dde2ec&amp;border_radius=10&amp;hide=stars,followers,avg,trend,issues,grade,hours,week,repos&amp;custom_title=GitHub%20activity" alt="GitHub activity for DiegoHA17" width="49%" align="top">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=DiegoHA17&amp;bg=161b26&amp;text=a9b4c8&amp;title_color=b8aef0&amp;icon_color=8fa8c8&amp;border_color=2a3142&amp;border_radius=10&amp;hide=stars%2Cfollowers%2Cavg%2Ctrend%2Cissues%2Cgrade%2Chours%2Cweek%2Crepos&amp;custom_title=GitHub%20activity">
+    <img src="https://ghstats.dev/api/card?username=DiegoHA17&amp;bg=ffffff&amp;text=4f5a70&amp;title_color=6c5fb0&amp;icon_color=5f7d9e&amp;border_color=dde2ec&amp;border_radius=10&amp;hide=stars%2Cfollowers%2Cavg%2Ctrend%2Cissues%2Cgrade%2Chours%2Cweek%2Crepos&amp;custom_title=GitHub%20activity" alt="GitHub activity for DiegoHA17" width="49%" align="top">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=DiegoHA17&amp;bg=161b26&amp;text=a9b4c8&amp;title_color=b8aef0&amp;icon_color=8fa8c8&amp;border_color=2a3142&amp;border_radius=10&amp;layout=donut&amp;max_langs=6&amp;custom_title=Most%20used%20languages">
